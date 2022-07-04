@@ -1,5 +1,5 @@
 # Click Game
-Exercise developed during the first module of the UPskill course.
+Exercise focused mainly on JavaScript developed during the first module of the UPskill course.
 
 ## Rules
 - Change the position of images with each click
